@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finger Painter</string>
+    <string name="button.color">Color</string>
+    <string name="button.size">Size</string>
+</resources>
