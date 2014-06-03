@@ -1,4 +1,4 @@
-android
+android-paint
 =======
 
-learning android 
+Android Paint application
